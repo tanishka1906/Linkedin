@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    height: fit-content;
+  }
+  .navbar-brand img{
+    width: 30px;
+    height: 30px;
+  }
+  .home{
+    color: rgba(0,0,0,0.6) !important;
+  }
+  .home:hover{
+    color: black !important;
+  }
+  .boxes{
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 5px;
+    /* margin: 0 5px; */
+  }
+  .card1{
+    border: 1px solid #e3e3e3;
+    width: 90%;
+    padding: 50px;
+    margin: 20px auto;
+  }
+  .emmaImage{
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+  }
+  .p1{
+    margin-left: 6px !important;
+  }
+  .tc{
+    margin: 20px !important;
+  }
+  .m{
+    margin: 10px !important;
+  }
+  .GIF{
+    background-image: url(https://giphy.com/embed/l0HlUoIYYAvboT7UI);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
